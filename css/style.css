@@ -1,0 +1,225 @@
+body{
+	 font-family: 'Open Sans', sans-serif;
+}
+header{
+	 background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('../img/barber.jpeg') center/cover no-repeat fixed;
+	 height:100vh;
+}
+
+header .navbar {
+  background:#f4b350;
+  padding:20px;
+}
+header .navbar a{
+	 color:#fff !important;
+}
+
+header .navbar a:hover{
+	 color:#000 !important;
+}
+
+header .barber-showcase{
+	 padding-top:300px;
+	  color:#fff;
+}
+header .barber-showcase h1{
+	 font-size:50px;
+
+}
+
+header .barber-showcase .btn{
+	   border: 2px solid #f4b350;
+	   color: #f4b350;
+	   margin-top:40px;
+	   padding:10px 25px;
+	   transition: all 2s ease;
+}
+header .barber-showcase .btn:hover{
+	  background: #f4b350;
+	  border: 2px solid #f4b350;
+	  color:#fff;
+}
+
+.barber-about{
+	 padding:40px 0;
+}
+.barber-about h1{
+	 text-align:center;
+	 font-weight: 400;
+	}
+
+.barber-about p{
+   font-size:14px;
+}
+.about_border{
+     border:3px solid #f4b350;
+     width:100px;
+     margin: 0 auto;
+     margin-bottom:30px;
+  }
+
+
+
+
+
+.barber-about .btn{
+	   border: 2px solid #f4b350;
+	   color: #f4b350;
+	   margin-top:40px;
+	   padding:10px 25px;
+	   transition: all 2s ease;
+}
+ .barber-about .btn:hover{
+	  background: #f4b350;
+	  border: 2px solid #f4b350;
+	  color:#fff;
+}
+
+
+.barber-services{
+	padding: 40px 0;
+}
+
+.barber-services img{
+	width:50px;
+	margin-left:55px;
+	margin-bottom:20px;
+}
+
+.barber-services p{
+	 font-size:14px;
+}
+.what-we-do{
+	 padding: 40px 0;
+}
+
+.what-we-do h1{
+	 text-align:center;
+}
+.what-we-do img{
+	 width:150px;
+	 float:left;
+     margin-right:20px;
+}
+
+.what-we-do p{
+	 font-size:15px;
+}
+.what-we-do .btn{
+	 border:2px solid #f4b350;
+	 color: #f4b350;
+	 padding:10px 20px;
+	 transition: all 2s ease;
+}
+.what-we-do .btn:hover{
+	 background: #f4b350;
+	 border-color:#f4b350;
+}
+
+.what-we-do .col-lg-4{
+	 margin-bottom:20px;
+	 border-bottom: 2px solid #f4b350;
+	 padding:20px;
+}
+
+.contact{
+	 padding:40px 0;
+}
+.contact h1{
+	 text-align:center;
+}
+
+.contact form{
+	 margin: 0 auto;
+	 width:600px;
+}
+
+.contact input{
+	height:50px;
+	color:#f4b350;
+}
+
+.contact textarea {
+	 color:#f4b350;
+}
+
+.contact .btn{
+	border:2px solid #f4b350;
+	color: #f4b350;
+	padding:15px 0;
+}
+
+.contact .btn:hover{
+      background: #f4b350;
+      border-color: #f4b350;	
+     ;
+}
+
+
+
+
+
+/* Footer     */
+
+
+footer{
+	  background:#2e3131;
+	  color:#fff;
+}
+
+
+ .barber-info{
+
+	 width:100%;
+	 padding:40px 0;
+	
+
+}
+.barber-info h1{
+	 color:#fff;	
+	 text-align:center;
+}
+
+
+.info_border{
+     border:3px solid #f4b350;
+     width:100px;
+     margin: 10px auto;
+  }
+
+
+.showcase-box{
+	 
+	 display:block;
+    margin-bottom:10px;
+
+
+}
+
+.showcase-box .fas{
+    font-size:30px;
+    margin-right:20px;
+    color:#f4b350;
+	}
+ .social-icons .fab{
+	 
+	 font-size:20px;
+	 text-align:center; 
+	 padding: 20px;
+}
+
+.fa-facebook{
+	 color: #4267b2 !important;
+}
+
+.fa-instagram {
+	 color:#262626;
+}
+ 
+.fa-twitter{
+	color: #1da1f2;
+}
+
+.fa-youtube{
+	color: #ff2500;
+}
